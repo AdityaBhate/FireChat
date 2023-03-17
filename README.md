@@ -1,7 +1,7 @@
 # FireChat
 A Browser based Chat app where users can Login and chat with different people! 
 
-Features: 
+##Features: 
 <li>Google Login</li>
 <li>Chat with multiple using chat roooms</li>
 <li>Clean UI UX!</li>
